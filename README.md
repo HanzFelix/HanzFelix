@@ -1,6 +1,6 @@
 # I'm Hanz Felix
 
-Interested in keeping up with the evolving world of programming and design.
+The evolving world of programming and design continues to fascinate me.
 
 ---
 
