@@ -5,10 +5,10 @@ The evolving world of programming and design continues to fascinate me.
 ---
 
 ### Got a good grasp with:
-- adapting to any modern language
 - intuitive UI and UX
 - spending hours to fix a bug
-- deadlines and procrastination
+- deciding between front-end and back-end development
+- another few extra hours of experimenting stuff
 
 ---
 
@@ -39,11 +39,12 @@ The evolving world of programming and design continues to fascinate me.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" title="Figma"/>
 <img src="https://www.corel.com/static/corel/images/product-icons/corel/cdgs-icon-250x250.png" height="40" title="CorelDRAW" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" title="Windows" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="Github" />
 </div>
 
 ---
 
-### Still trying to learn:
+<!--### Still trying to learn:
 
 <div class="icons-pl">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" title="Android Studio"/>
@@ -53,6 +54,6 @@ The evolving world of programming and design continues to fascinate me.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" title="Flutter"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" title="Dart"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" title="Linux" />
-</div>
+</div-->
 
 <!--Icons from https://devicon.dev/-->
